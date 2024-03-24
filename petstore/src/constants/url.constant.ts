@@ -1,1 +1,1 @@
-export const baseUrl = "https://backend-app-20240323130223.kindocean-86a13fad.eastus.azurecontainerapps.io/api/Products";
+export const baseUrl = "https://backend-app-20240323130223.kindocean-86a13fad.eastus.azurecontainerapps.io/api/Product";
